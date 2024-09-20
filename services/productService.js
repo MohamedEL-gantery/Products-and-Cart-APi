@@ -2,6 +2,7 @@ const Product = require("../model/productModel");
 const AppError = require("../utils/appError");
 
 class ProductService {
+  constructor() {}
   /**
    * Create a new product
    *
