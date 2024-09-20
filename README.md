@@ -4,7 +4,7 @@
 
 ![Mongoose](https://img.shields.io/badge/Mongoose-8.6.3-880000?logo=mongoose&logoColor=red)
 
-# E-commerce
+# Product and Cart APIs
 
 Welcome to Product and Cart APIs This README provides instructions on installation, running the application, and an overview of its features and technologies.
 
