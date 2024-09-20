@@ -63,7 +63,6 @@ The Product and Cart APIs is built using the following technologies:
 - Node.js: A JavaScript runtime that allows building scalable and high-performance server-side applications.
 - Express: A fast and minimalist web application framework for Node.js that provides robust features for web and API development.
 - MongoDB: A popular NoSQL database that provides flexibility and scalability for storing and retrieving data.
-- cors: A middleware for handling Cross-Origin Resource Sharing.
 - dotenv: A module for loading environment variables from a `.env` file.
 - express-async-handler: A utility to handle errors in async/await functions.
 - mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js.
